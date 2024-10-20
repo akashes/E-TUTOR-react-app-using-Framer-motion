@@ -1,0 +1,5 @@
+used new packages
+
+react-countup - number conting effect
+react-slick - for carousal / testimonial
+framer-motion - animation
