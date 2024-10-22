@@ -4,7 +4,7 @@ import {motion} from 'framer-motion'
 import { SlideLeft } from '../../utility/animation'
 const ServicesSection = () => {
   return (
-    <div className='mx-16 mt-20 text-center bg-[#f9fafc]'>
+    <div  id='services' className='mx-16 mt-20 text-center bg-[#f9fafc]'>
         <div className="container py-24">
             {/* header section */}
             <div className='space-y-4 p-6 text-center max-w-[500px] mx-auto mb-5' >
